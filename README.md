@@ -12,7 +12,7 @@ POW Scrypt Cryptocurrency
 
 1 Minute Blocks
 
-Subsidy halves in 337k blocks
+Subsidy halves in 500k blocks
 
 3 hour retarget 
 
