@@ -70,7 +70,7 @@ www.transifex.net/projects/p/bitcoin/</translation>
     <message>
         <location filename="../forms/addressbookpage.ui" line="80"/>
         <source>&amp;Copy Address</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Skopiuj Adres</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="91"/>
@@ -100,7 +100,7 @@ www.transifex.net/projects/p/bitcoin/</translation>
     <message>
         <location filename="../addressbookpage.cpp" line="63"/>
         <source>Copy &amp;Label</source>
-        <translation type="unfinished"/>
+        <translation>Skopiuj &amp;Etykietę</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="65"/>
@@ -394,12 +394,12 @@ Czy na pewno chcesz zaszyfrować swój portfel?</translation>
     <message>
         <location filename="../bitcoingui.cpp" line="255"/>
         <source>&amp;Backup Wallet...</source>
-        <translation type="unfinished"/>
+        <translate>&amp;Stwórz kopię zapasową Portfelu...</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="257"/>
         <source>&amp;Change Passphrase...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zmień Hasło...</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="517"/>
@@ -409,7 +409,7 @@ Czy na pewno chcesz zaszyfrować swój portfel?</translation>
     <message>
         <location filename="../bitcoingui.cpp" line="528"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation type="unfinished"/>
+        <translation>Pobrano %1 z %2 bloków historii transakcji (%3% skończono).</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="250"/>
@@ -424,7 +424,7 @@ Czy na pewno chcesz zaszyfrować swój portfel?</translation>
     <message>
         <location filename="../bitcoingui.cpp" line="246"/>
         <source>Modify configuration options for Bitcoin</source>
-        <translation type="unfinished"/>
+        <translation>Zmodyfikuj konfigurację Bitcoin</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="249"/>
@@ -454,22 +454,22 @@ Czy na pewno chcesz zaszyfrować swój portfel?</translation>
     <message>
         <location filename="../bitcoingui.cpp" line="259"/>
         <source>&amp;Debug window</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Okno debugowania</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
         <source>Open debugging and diagnostic console</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz konsolę debugowania i diagnostyki</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="261"/>
         <source>&amp;Verify message...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zweryfikuj wiadomość...</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
         <source>Verify a message signature</source>
-        <translation type="unfinished"/>
+        <translation>Zweryfikuj podpis wiadomości</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="286"/>
@@ -655,7 +655,7 @@ Adres: %4
     <message>
         <location filename="../optionsdialog.cpp" line="273"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pokazuj ilość w jednostcee:</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="277"/>
@@ -665,7 +665,7 @@ Adres: %4
     <message>
         <location filename="../optionsdialog.cpp" line="284"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pokaż adresy w liście transakcji</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="285"/>
